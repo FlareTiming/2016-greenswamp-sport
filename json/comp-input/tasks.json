@@ -1,0 +1,896 @@
+[
+  {
+    "taskName": "Task 1",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "398.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "4975.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "1000.0 m",
+          "lat": 28.3764,
+          "zoneName": "T47433",
+          "lng": -81.8233,
+          "give": "1005.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "9000.0 m",
+          "lat": 28.19247,
+          "zoneName": "ROK98",
+          "lng": -82.00118,
+          "give": "9045.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "9000.0 m",
+            "center": [
+              "28.19247000 deg",
+              "-82.00118000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "1000.0 m",
+              "center": [
+                "28.37640000 deg",
+                "-81.82330000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [],
+    "penals": [
+      [
+        [
+          "201",
+          "Niki Longshore"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "209",
+          "John Blank"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "210",
+          "Pete Wall"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "216",
+          "John Maloney"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "206",
+          "Michael Duffy"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "217",
+          "Richard Westmoreland"
+        ],
+        [
+          {
+            "penalty-fraction": -0.29
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "208",
+          "Soraya Rios"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2016-04-04T00:00:00Z",
+        "open": "2016-04-03T18:30:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Task 2",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "398.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "3000.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "2985.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "1000.0 m",
+          "lat": 28.48417,
+          "zoneName": "SAWMIL",
+          "lng": -81.77607,
+          "give": "1005.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.47802,
+          "zoneName": "BAYLK",
+          "lng": -81.90695,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.58093,
+          "zoneName": "T50469",
+          "lng": -81.96075,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "28.53303000 deg",
+              "-81.84667000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "3000.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "1000.0 m",
+              "center": [
+                "28.48417000 deg",
+                "-81.77607000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.47802000 deg",
+                "-81.90695000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.58093000 deg",
+                "-81.96075000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      6
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [],
+    "penals": [
+      [
+        [
+          "209",
+          "John Blank"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "206",
+          "Michael Duffy"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "201",
+          "Niki Longshore"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "217",
+          "Richard Westmoreland"
+        ],
+        [
+          {
+            "penalty-fraction": -0.29
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "208",
+          "Soraya Rios"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "216",
+          "John Maloney"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "210",
+          "Pete Wall"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2016-04-05T00:00:00Z",
+        "open": "2016-04-04T17:30:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Task 3",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "398.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "4975.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "1000.0 m",
+          "lat": 28.3475,
+          "zoneName": "T27192",
+          "lng": -81.67583,
+          "give": "1005.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 27.5919,
+          "zoneName": "AVONPK",
+          "lng": -81.52687,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "27.59190000 deg",
+              "-81.52687000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "1000.0 m",
+              "center": [
+                "28.34750000 deg",
+                "-81.67583000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [],
+    "penals": [
+      [
+        [
+          "216",
+          "John Maloney"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "208",
+          "Soraya Rios"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "209",
+          "John Blank"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "206",
+          "Michael Duffy"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "210",
+          "Pete Wall"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "201",
+          "Niki Longshore"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2016-04-06T00:00:00Z",
+        "open": "2016-04-05T17:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Task 4",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "398.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "4975.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": 29.06043,
+          "zoneName": "DUNELL",
+          "lng": -82.37565,
+          "give": "5025.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "1000.0 m",
+          "lat": 29.35018,
+          "zoneName": "WILLIS",
+          "lng": -82.46477,
+          "give": "1005.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "1000.0 m",
+            "center": [
+              "29.35018000 deg",
+              "-82.46477000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "29.06043000 deg",
+                "-82.37565000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [],
+    "penals": [
+      [
+        [
+          "201",
+          "Niki Longshore"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "210",
+          "Pete Wall"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "216",
+          "John Maloney"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "206",
+          "Michael Duffy"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "208",
+          "Soraya Rios"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2016-04-07T00:00:00Z",
+        "open": "2016-04-06T17:30:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Task 5",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "398.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "4975.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.25847,
+          "zoneName": "T33DS",
+          "lng": -81.825,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "12000.0 m",
+          "lat": 28.06297,
+          "zoneName": "GILBRT",
+          "lng": -81.75307,
+          "give": "12060.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "12000.0 m",
+            "center": [
+              "28.06297000 deg",
+              "-81.75307000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.25847000 deg",
+                "-81.82500000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [],
+    "penals": [
+      [
+        [
+          "201",
+          "Niki Longshore"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handcap"
+      ],
+      [
+        [
+          "216",
+          "John Maloney"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "210",
+          "Pete Wall"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "206",
+          "Michael Duffy"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ],
+      [
+        [
+          "208",
+          "Soraya Rios"
+        ],
+        [
+          {
+            "penalty-fraction": -0.06
+          }
+        ],
+        "Handicap"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2016-04-10T00:00:00Z",
+        "open": "2016-04-09T18:00:00Z"
+      }
+    ]
+  }
+]

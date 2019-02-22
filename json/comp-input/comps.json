@@ -1,0 +1,22 @@
+{
+  "civilId": "11140",
+  "earthMath": "Haversines",
+  "discipline": "hg",
+  "location": "Groveland, USA",
+  "to": "2016-04-09",
+  "compName": "2016 Green Swamp Klassic (Kingposted)",
+  "from": "2016-04-03",
+  "utcOffset": {
+    "timeZoneMinutes": -240
+  },
+  "earth": {
+    "sphere": {
+      "radius": "6371000.0 m"
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.005
+  },
+  "scoreBack": "900.000 s"
+}

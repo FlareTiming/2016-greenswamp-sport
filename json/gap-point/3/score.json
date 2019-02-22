@@ -1,0 +1,386 @@
+[
+  [
+    [
+      "217",
+      "Richard Westmoreland"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 46.363,
+        "distance": 98.761,
+        "leading": 0,
+        "effort": 52.398,
+        "arrival": 0
+      },
+      "stoppedAlt": "22.000 m",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-04-09T19:23:20Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 99,
+      "landedDistance": "10.593 km",
+      "penalties": [],
+      "place": "1",
+      "reachDistance": "11.278 km"
+    }
+  ],
+  [
+    [
+      "210",
+      "Pete Wall"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 42.548,
+        "distance": 91.671,
+        "leading": 0,
+        "effort": 49.123,
+        "arrival": 0
+      },
+      "stoppedAlt": "-8.000 m",
+      "penaltyReason": "Handicap",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-04-09T19:57:02Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 97,
+      "landedDistance": "10.206 km",
+      "penalties": [
+        {
+          "penalty-fraction": -0.06
+        }
+      ],
+      "place": "2",
+      "reachDistance": "10.350 km"
+    }
+  ],
+  [
+    [
+      "212",
+      "Greg Sessa"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 47.132,
+        "distance": 89.705,
+        "leading": 0,
+        "effort": 42.573,
+        "arrival": 0
+      },
+      "stoppedAlt": "-4.000 m",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-04-09T19:37:29Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 90,
+      "landedDistance": "7.840 km",
+      "penalties": [],
+      "place": "3",
+      "reachDistance": "11.465 km"
+    }
+  ],
+  [
+    [
+      "208",
+      "Soraya Rios"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 31.979,
+        "distance": 64.728,
+        "leading": 0,
+        "effort": 32.749,
+        "arrival": 0
+      },
+      "stoppedAlt": "-10.000 m",
+      "penaltyReason": "Handicap",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-04-09T19:58:56Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 69,
+      "landedDistance": "7.114 km",
+      "penalties": [
+        {
+          "penalty-fraction": -0.06
+        }
+      ],
+      "place": "4",
+      "reachDistance": "7.779 km"
+    }
+  ],
+  [
+    [
+      "205",
+      "Kelly Myrkle"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 52.398,
+        "distance": 65.497,
+        "leading": 0,
+        "effort": 13.099,
+        "arrival": 0
+      },
+      "stoppedAlt": "1.000 m",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-04-09T19:30:39Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 65,
+      "landedDistance": "4.288 km",
+      "penalties": [],
+      "place": "5",
+      "reachDistance": "12.746 km"
+    }
+  ],
+  [
+    [
+      "201",
+      "Niki Longshore"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 47.658,
+        "distance": 60.757,
+        "leading": 0,
+        "effort": 13.099,
+        "arrival": 0
+      },
+      "stoppedAlt": "7.000 m",
+      "penaltyReason": "Handicap",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-04-09T18:56:27Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 64,
+      "landedDistance": "4.276 km",
+      "penalties": [
+        {
+          "penalty-fraction": -0.06
+        }
+      ],
+      "place": "6",
+      "reachDistance": "11.593 km"
+    }
+  ],
+  [
+    [
+      "203",
+      "Andrey Solomykin"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 48.016,
+        "distance": 61.115,
+        "leading": 0,
+        "effort": 13.099,
+        "arrival": 0
+      },
+      "stoppedAlt": "9.000 m",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-04-09T18:59:35Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 61,
+      "landedDistance": "4.206 km",
+      "penalties": [],
+      "place": "7=",
+      "reachDistance": "11.680 km"
+    }
+  ],
+  [
+    [
+      "216",
+      "John Maloney"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 44.402,
+        "distance": 57.501,
+        "leading": 0,
+        "effort": 13.099,
+        "arrival": 0
+      },
+      "stoppedAlt": "-2.000 m",
+      "penaltyReason": "Handicap",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-04-09T19:22:04Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 61,
+      "landedDistance": "3.688 km",
+      "penalties": [
+        {
+          "penalty-fraction": -0.06
+        }
+      ],
+      "place": "7=",
+      "reachDistance": "10.801 km"
+    }
+  ],
+  [
+    [
+      "209",
+      "John Blank"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 20.555,
+        "distance": 43.479,
+        "leading": 0,
+        "effort": 22.924,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "Handicap",
+      "velocity": null,
+      "total": 46,
+      "landedDistance": "5.000 km",
+      "penalties": [
+        {
+          "penalty-fraction": -0.06
+        }
+      ],
+      "place": "9=",
+      "reachDistance": "5.000 km"
+    }
+  ],
+  [
+    [
+      "206",
+      "Michael Duffy"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 20.555,
+        "distance": 43.479,
+        "leading": 0,
+        "effort": 22.924,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "Handicap",
+      "velocity": null,
+      "total": 46,
+      "landedDistance": "5.000 km",
+      "penalties": [
+        {
+          "penalty-fraction": -0.06
+        }
+      ],
+      "place": "9=",
+      "reachDistance": "5.000 km"
+    }
+  ],
+  [
+    [
+      "202",
+      "Nick Jones"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 20.555,
+        "distance": 43.479,
+        "leading": 0,
+        "effort": 22.924,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": null,
+      "total": 43,
+      "landedDistance": "5.000 km",
+      "penalties": [],
+      "place": "11=",
+      "reachDistance": "5.000 km"
+    }
+  ],
+  [
+    [
+      "214",
+      "Richard Elder"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 20.555,
+        "distance": 43.479,
+        "leading": 0,
+        "effort": 22.924,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": null,
+      "total": 43,
+      "landedDistance": "5.000 km",
+      "penalties": [],
+      "place": "11=",
+      "reachDistance": "5.000 km"
+    }
+  ]
+]
