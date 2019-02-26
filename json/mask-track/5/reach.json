@@ -1,0 +1,102 @@
+[
+  [
+    [
+      "201",
+      "Niki Longshore"
+    ],
+    {
+      "reach": "40.970438 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "203",
+      "Andrey Solomykin"
+    ],
+    {
+      "reach": "40.970438 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "216",
+      "John Maloney"
+    ],
+    {
+      "reach": "40.970438 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "205",
+      "Kelly Myrkle"
+    ],
+    {
+      "reach": "40.970438 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "202",
+      "Nick Jones"
+    ],
+    {
+      "reach": "35.908438 km",
+      "frac": 0.8764475
+    }
+  ],
+  [
+    [
+      "212",
+      "Greg Sessa"
+    ],
+    {
+      "reach": "34.308438 km",
+      "frac": 0.83739495
+    }
+  ],
+  [
+    [
+      "217",
+      "Richard Westmoreland"
+    ],
+    {
+      "reach": "28.740438 km",
+      "frac": 0.70149209
+    }
+  ],
+  [
+    [
+      "210",
+      "Pete Wall"
+    ],
+    {
+      "reach": "13.303438 km",
+      "frac": 0.32470822
+    }
+  ],
+  [
+    [
+      "206",
+      "Michael Duffy"
+    ],
+    {
+      "reach": "11.043438 km",
+      "frac": 0.2695465
+    }
+  ],
+  [
+    [
+      "208",
+      "Soraya Rios"
+    ],
+    {
+      "reach": "9.551438 km",
+      "frac": 0.23312999
+    }
+  ]
+]
