@@ -1,0 +1,92 @@
+[
+  [
+    [
+      "202",
+      "Nick Jones"
+    ],
+    {
+      "frac": 1,
+      "effort": "35.578000 km"
+    }
+  ],
+  [
+    [
+      "212",
+      "Greg Sessa"
+    ],
+    {
+      "frac": 0.9375,
+      "effort": "33.707000 km"
+    }
+  ],
+  [
+    [
+      "217",
+      "Richard Westmoreland"
+    ],
+    {
+      "frac": 0.8125,
+      "effort": "28.220000 km"
+    }
+  ],
+  [
+    [
+      "210",
+      "Pete Wall"
+    ],
+    {
+      "frac": 0.625,
+      "effort": "13.001000 km"
+    }
+  ],
+  [
+    [
+      "206",
+      "Michael Duffy"
+    ],
+    {
+      "frac": 0.5625,
+      "effort": "10.777000 km"
+    }
+  ],
+  [
+    [
+      "208",
+      "Soraya Rios"
+    ],
+    {
+      "frac": 0.4375,
+      "effort": "8.770000 km"
+    }
+  ],
+  [
+    [
+      "214",
+      "Richard Elder"
+    ],
+    {
+      "frac": 0.25,
+      "effort": "5.006000 km"
+    }
+  ],
+  [
+    [
+      "211",
+      "Dan Lukaszewicz"
+    ],
+    {
+      "frac": 0.25,
+      "effort": "5.006000 km"
+    }
+  ],
+  [
+    [
+      "207",
+      "Alex Skyride"
+    ],
+    {
+      "frac": 0.25,
+      "effort": "5.006000 km"
+    }
+  ]
+]

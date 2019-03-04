@@ -1,0 +1,122 @@
+[
+  [
+    [
+      "217",
+      "Richard Westmoreland"
+    ],
+    {
+      "frac": 1,
+      "effort": "10.593000 km"
+    }
+  ],
+  [
+    [
+      "210",
+      "Pete Wall"
+    ],
+    {
+      "frac": 0.9375,
+      "effort": "10.206000 km"
+    }
+  ],
+  [
+    [
+      "212",
+      "Greg Sessa"
+    ],
+    {
+      "frac": 0.8125,
+      "effort": "7.840000 km"
+    }
+  ],
+  [
+    [
+      "208",
+      "Soraya Rios"
+    ],
+    {
+      "frac": 0.625,
+      "effort": "7.114000 km"
+    }
+  ],
+  [
+    [
+      "214",
+      "Richard Elder"
+    ],
+    {
+      "frac": 0.4375,
+      "effort": "5.000000 km"
+    }
+  ],
+  [
+    [
+      "202",
+      "Nick Jones"
+    ],
+    {
+      "frac": 0.4375,
+      "effort": "5.000000 km"
+    }
+  ],
+  [
+    [
+      "206",
+      "Michael Duffy"
+    ],
+    {
+      "frac": 0.4375,
+      "effort": "5.000000 km"
+    }
+  ],
+  [
+    [
+      "209",
+      "John Blank"
+    ],
+    {
+      "frac": 0.4375,
+      "effort": "5.000000 km"
+    }
+  ],
+  [
+    [
+      "216",
+      "John Maloney"
+    ],
+    {
+      "frac": 0.25,
+      "effort": "3.688000 km"
+    }
+  ],
+  [
+    [
+      "203",
+      "Andrey Solomykin"
+    ],
+    {
+      "frac": 0.25,
+      "effort": "4.206000 km"
+    }
+  ],
+  [
+    [
+      "201",
+      "Niki Longshore"
+    ],
+    {
+      "frac": 0.25,
+      "effort": "4.276000 km"
+    }
+  ],
+  [
+    [
+      "205",
+      "Kelly Myrkle"
+    ],
+    {
+      "frac": 0.25,
+      "effort": "4.288000 km"
+    }
+  ]
+]
