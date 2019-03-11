@@ -1,12 +1,32 @@
 [
   [
     [
-      "217",
-      "Richard Westmoreland"
+      "203",
+      "Andrey Solomykin"
     ],
     {
       "frac": 1,
-      "effort": "10.593000 km"
+      "effort": "109.370000 km"
+    }
+  ],
+  [
+    [
+      "216",
+      "John Maloney"
+    ],
+    {
+      "frac": 0.97727272,
+      "effort": "88.370000 km"
+    }
+  ],
+  [
+    [
+      "215",
+      "Burke Schnedl"
+    ],
+    {
+      "frac": 0.93181818,
+      "effort": "88.189000 km"
     }
   ],
   [
@@ -15,8 +35,28 @@
       "Pete Wall"
     ],
     {
-      "frac": 0.9375,
-      "effort": "10.206000 km"
+      "frac": 0.86363636,
+      "effort": "44.911000 km"
+    }
+  ],
+  [
+    [
+      "204",
+      "Owen MB"
+    ],
+    {
+      "frac": 0.8409091,
+      "effort": "24.094000 km"
+    }
+  ],
+  [
+    [
+      "207",
+      "Alex Skyride"
+    ],
+    {
+      "frac": 0.79545454,
+      "effort": "22.566000 km"
     }
   ],
   [
@@ -25,8 +65,28 @@
       "Greg Sessa"
     ],
     {
-      "frac": 0.8125,
-      "effort": "7.840000 km"
+      "frac": 0.75,
+      "effort": "15.824000 km"
+    }
+  ],
+  [
+    [
+      "211",
+      "Dan Lukaszewicz"
+    ],
+    {
+      "frac": 0.68181818,
+      "effort": "15.711000 km"
+    }
+  ],
+  [
+    [
+      "217",
+      "Richard Westmoreland"
+    ],
+    {
+      "frac": 0.5909091,
+      "effort": "10.997000 km"
     }
   ],
   [
@@ -35,8 +95,8 @@
       "Soraya Rios"
     ],
     {
-      "frac": 0.625,
-      "effort": "7.114000 km"
+      "frac": 0.47727272,
+      "effort": "9.009000 km"
     }
   ],
   [
@@ -45,7 +105,7 @@
       "Richard Elder"
     ],
     {
-      "frac": 0.4375,
+      "frac": 0.3409091,
       "effort": "5.000000 km"
     }
   ],
@@ -55,7 +115,7 @@
       "Nick Jones"
     ],
     {
-      "frac": 0.4375,
+      "frac": 0.3409091,
       "effort": "5.000000 km"
     }
   ],
@@ -65,7 +125,7 @@
       "Michael Duffy"
     ],
     {
-      "frac": 0.4375,
+      "frac": 0.3409091,
       "effort": "5.000000 km"
     }
   ],
@@ -75,48 +135,18 @@
       "John Blank"
     ],
     {
-      "frac": 0.4375,
+      "frac": 0.3409091,
       "effort": "5.000000 km"
     }
   ],
   [
     [
-      "216",
-      "John Maloney"
+      "213",
+      "Willie Van Caulart"
     ],
     {
-      "frac": 0.25,
-      "effort": "3.688000 km"
-    }
-  ],
-  [
-    [
-      "203",
-      "Andrey Solomykin"
-    ],
-    {
-      "frac": 0.25,
-      "effort": "4.206000 km"
-    }
-  ],
-  [
-    [
-      "201",
-      "Niki Longshore"
-    ],
-    {
-      "frac": 0.25,
-      "effort": "4.276000 km"
-    }
-  ],
-  [
-    [
-      "205",
-      "Kelly Myrkle"
-    ],
-    {
-      "frac": 0.25,
-      "effort": "4.288000 km"
+      "frac": 0.18181818,
+      "effort": "-0.454000 km"
     }
   ]
 ]

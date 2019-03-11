@@ -1,11 +1,21 @@
 [
   [
     [
+      "201",
+      "Niki Longshore"
+    ],
+    {
+      "reach": "110.550208 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
       "205",
       "Kelly Myrkle"
     ],
     {
-      "reach": "12.746208 km",
+      "reach": "110.550208 km",
       "frac": 1
     }
   ],
@@ -15,38 +25,18 @@
       "Andrey Solomykin"
     ],
     {
-      "reach": "11.680208 km",
-      "frac": 0.91636728
+      "reach": "109.370208 km",
+      "frac": 0.98932612
     }
   ],
   [
     [
-      "201",
-      "Niki Longshore"
+      "215",
+      "Burke Schnedl"
     ],
     {
-      "reach": "11.593208 km",
-      "frac": 0.90954172
-    }
-  ],
-  [
-    [
-      "212",
-      "Greg Sessa"
-    ],
-    {
-      "reach": "11.465208 km",
-      "frac": 0.89949952
-    }
-  ],
-  [
-    [
-      "217",
-      "Richard Westmoreland"
-    ],
-    {
-      "reach": "11.278208 km",
-      "frac": 0.88482849
+      "reach": "89.397208 km",
+      "frac": 0.80865708
     }
   ],
   [
@@ -55,8 +45,8 @@
       "John Maloney"
     ],
     {
-      "reach": "10.801208 km",
-      "frac": 0.8474056
+      "reach": "88.580208 km",
+      "frac": 0.80126677
     }
   ],
   [
@@ -65,8 +55,58 @@
       "Pete Wall"
     ],
     {
-      "reach": "10.350208 km",
-      "frac": 0.81202252
+      "reach": "45.292208 km",
+      "frac": 0.40969808
+    }
+  ],
+  [
+    [
+      "204",
+      "Owen MB"
+    ],
+    {
+      "reach": "24.290208 km",
+      "frac": 0.21972105
+    }
+  ],
+  [
+    [
+      "207",
+      "Alex Skyride"
+    ],
+    {
+      "reach": "22.566208 km",
+      "frac": 0.20412633
+    }
+  ],
+  [
+    [
+      "212",
+      "Greg Sessa"
+    ],
+    {
+      "reach": "16.620208 km",
+      "frac": 0.15034081
+    }
+  ],
+  [
+    [
+      "211",
+      "Dan Lukaszewicz"
+    ],
+    {
+      "reach": "16.366208 km",
+      "frac": 0.14804321
+    }
+  ],
+  [
+    [
+      "217",
+      "Richard Westmoreland"
+    ],
+    {
+      "reach": "11.329208 km",
+      "frac": 0.10248021
     }
   ],
   [
@@ -75,8 +115,18 @@
       "Soraya Rios"
     ],
     {
-      "reach": "7.779208 km",
-      "frac": 0.61031548
+      "reach": "9.275208 km",
+      "frac": 0.08390041
+    }
+  ],
+  [
+    [
+      "213",
+      "Willie Van Caulart"
+    ],
+    {
+      "reach": "0.450208 km",
+      "frac": 0.00407243
     }
   ]
 ]

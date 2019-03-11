@@ -1,42 +1,42 @@
 [
   [
     [
-      "217",
-      "Richard Westmoreland"
+      "201",
+      "Niki Longshore"
     ],
     {
-      "frac": 0,
-      "coef": 0
+      "frac": 1,
+      "coef": 2.54299536
     }
   ],
   [
     [
-      "210",
-      "Pete Wall"
+      "215",
+      "Burke Schnedl"
     ],
     {
-      "frac": 0,
-      "coef": 0
+      "frac": 0.77334952,
+      "coef": 2.6792563
     }
   ],
   [
     [
-      "212",
-      "Greg Sessa"
+      "216",
+      "John Maloney"
     ],
     {
-      "frac": 0,
-      "coef": 0
+      "frac": 0.76694735,
+      "coef": 2.6850703
     }
   ],
   [
     [
-      "208",
-      "Soraya Rios"
+      "203",
+      "Andrey Solomykin"
     ],
     {
-      "frac": 0,
-      "coef": 0
+      "frac": 0.07108083,
+      "coef": 3.67358053
     }
   ],
   [
@@ -46,37 +46,77 @@
     ],
     {
       "frac": 0,
-      "coef": 0
+      "coef": 3.85529305
     }
   ],
   [
     [
-      "201",
-      "Niki Longshore"
+      "210",
+      "Pete Wall"
     ],
     {
       "frac": 0,
-      "coef": 0
+      "coef": 4.26675835
     }
   ],
   [
     [
-      "203",
-      "Andrey Solomykin"
+      "204",
+      "Owen MB"
     ],
     {
       "frac": 0,
-      "coef": 0
+      "coef": 6.48231646
     }
   ],
   [
     [
-      "216",
-      "John Maloney"
+      "207",
+      "Alex Skyride"
     ],
     {
       "frac": 0,
-      "coef": 0
+      "coef": 6.74029491
+    }
+  ],
+  [
+    [
+      "212",
+      "Greg Sessa"
+    ],
+    {
+      "frac": 0,
+      "coef": 7.06792514
+    }
+  ],
+  [
+    [
+      "211",
+      "Dan Lukaszewicz"
+    ],
+    {
+      "frac": 0,
+      "coef": 7.10881222
+    }
+  ],
+  [
+    [
+      "208",
+      "Soraya Rios"
+    ],
+    {
+      "frac": 0,
+      "coef": 7.82510739
+    }
+  ],
+  [
+    [
+      "217",
+      "Richard Westmoreland"
+    ],
+    {
+      "frac": 0,
+      "coef": 7.83335818
     }
   ]
 ]
