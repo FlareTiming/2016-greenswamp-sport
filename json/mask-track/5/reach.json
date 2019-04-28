@@ -5,7 +5,7 @@
       "Niki Longshore"
     ],
     {
-      "reach": "40.970438 km",
+      "reach": "40.969473 km",
       "frac": 1
     }
   ],
@@ -15,7 +15,7 @@
       "Andrey Solomykin"
     ],
     {
-      "reach": "40.970438 km",
+      "reach": "40.969473 km",
       "frac": 1
     }
   ],
@@ -25,7 +25,7 @@
       "John Maloney"
     ],
     {
-      "reach": "40.970438 km",
+      "reach": "40.969473 km",
       "frac": 1
     }
   ],
@@ -35,7 +35,7 @@
       "Kelly Myrkle"
     ],
     {
-      "reach": "40.970438 km",
+      "reach": "40.969473 km",
       "frac": 1
     }
   ],
@@ -45,8 +45,8 @@
       "Nick Jones"
     ],
     {
-      "reach": "35.908438 km",
-      "frac": 0.8764475
+      "reach": "35.847473 km",
+      "frac": 0.87498009
     }
   ],
   [
@@ -55,8 +55,8 @@
       "Greg Sessa"
     ],
     {
-      "reach": "34.308438 km",
-      "frac": 0.83739495
+      "reach": "34.247473 km",
+      "frac": 0.83592662
     }
   ],
   [
@@ -65,8 +65,8 @@
       "Richard Westmoreland"
     ],
     {
-      "reach": "28.740438 km",
-      "frac": 0.70149209
+      "reach": "28.678473 km",
+      "frac": 0.69999614
     }
   ],
   [
@@ -75,8 +75,8 @@
       "Pete Wall"
     ],
     {
-      "reach": "13.303438 km",
-      "frac": 0.32470822
+      "reach": "13.242473 km",
+      "frac": 0.32322781
     }
   ],
   [
@@ -85,8 +85,8 @@
       "Michael Duffy"
     ],
     {
-      "reach": "11.043438 km",
-      "frac": 0.2695465
+      "reach": "10.982473 km",
+      "frac": 0.26806479
     }
   ],
   [
@@ -95,8 +95,8 @@
       "Soraya Rios"
     ],
     {
-      "reach": "9.551438 km",
-      "frac": 0.23312999
+      "reach": "9.490473 km",
+      "frac": 0.23164743
     }
   ]
 ]
