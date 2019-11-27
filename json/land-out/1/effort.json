@@ -6,7 +6,7 @@
     ],
     {
       "frac": 1,
-      "effort": "26.260000 km"
+      "effort": "26.306000 km"
     }
   ],
   [
@@ -15,8 +15,8 @@
       "Kelly Myrkle"
     ],
     {
-      "frac": 0.97058824,
-      "effort": "19.475000 km"
+      "frac": 0.91856288,
+      "effort": "19.523000 km"
     }
   ],
   [
@@ -25,8 +25,8 @@
       "Niki Longshore"
     ],
     {
-      "frac": 0.9117647,
-      "effort": "17.025000 km"
+      "frac": 0.88742514,
+      "effort": "17.072000 km"
     }
   ],
   [
@@ -35,8 +35,8 @@
       "Richard Elder"
     ],
     {
-      "frac": 0.9117647,
-      "effort": "17.035000 km"
+      "frac": 0.88742514,
+      "effort": "17.082000 km"
     }
   ],
   [
@@ -45,8 +45,8 @@
       "John Maloney"
     ],
     {
-      "frac": 0.85294118,
-      "effort": "15.300000 km"
+      "frac": 0.8263473,
+      "effort": "15.345000 km"
     }
   ],
   [
@@ -55,8 +55,8 @@
       "John Blank"
     ],
     {
-      "frac": 0.76470588,
-      "effort": "12.387000 km"
+      "frac": 0.68982036,
+      "effort": "12.435000 km"
     }
   ],
   [
@@ -65,8 +65,8 @@
       "Greg Sessa"
     ],
     {
-      "frac": 0.67647058,
-      "effort": "10.908000 km"
+      "frac": 0.61796408,
+      "effort": "10.959000 km"
     }
   ],
   [
@@ -75,8 +75,8 @@
       "Dan Lukaszewicz"
     ],
     {
-      "frac": 0.55882352,
-      "effort": "8.728000 km"
+      "frac": 0.51976048,
+      "effort": "8.776000 km"
     }
   ],
   [
@@ -85,8 +85,8 @@
       "Richard Westmoreland"
     ],
     {
-      "frac": 0.44117648,
-      "effort": "8.629000 km"
+      "frac": 0.51497006,
+      "effort": "8.677000 km"
     }
   ],
   [
@@ -95,8 +95,8 @@
       "Owen MB"
     ],
     {
-      "frac": 0.44117648,
-      "effort": "8.630000 km"
+      "frac": 0.51497006,
+      "effort": "8.678000 km"
     }
   ],
   [
@@ -105,38 +105,8 @@
       "Alex Skyride"
     ],
     {
-      "frac": 0.29411764,
-      "effort": "7.052000 km"
-    }
-  ],
-  [
-    [
-      "206",
-      "Michael Duffy"
-    ],
-    {
-      "frac": 0.14705882,
-      "effort": "-0.501000 km"
-    }
-  ],
-  [
-    [
-      "210",
-      "Pete Wall"
-    ],
-    {
-      "frac": 0.14705882,
-      "effort": "0.300000 km"
-    }
-  ],
-  [
-    [
-      "213",
-      "Willie Van Caulart"
-    ],
-    {
-      "frac": 0.14705882,
-      "effort": "3.380000 km"
+      "frac": 0.4227545,
+      "effort": "7.100000 km"
     }
   ],
   [
@@ -145,8 +115,38 @@
       "Soraya Rios"
     ],
     {
-      "frac": 0.14705882,
-      "effort": "3.530000 km"
+      "frac": 0.19401198,
+      "effort": "3.579000 km"
+    }
+  ],
+  [
+    [
+      "213",
+      "Willie Van Caulart"
+    ],
+    {
+      "frac": 0.18802396,
+      "effort": "3.428000 km"
+    }
+  ],
+  [
+    [
+      "210",
+      "Pete Wall"
+    ],
+    {
+      "frac": 0.01676646,
+      "effort": "0.349000 km"
+    }
+  ],
+  [
+    [
+      "206",
+      "Michael Duffy"
+    ],
+    {
+      "frac": 0.00479042,
+      "effort": "-0.452000 km"
     }
   ]
 ]

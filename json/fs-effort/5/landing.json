@@ -1,0 +1,162 @@
+{
+  "chunking": {
+    "endChunk": [
+      412,
+      "41.2 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 899
+  },
+  "bestDistance": null,
+  "difficulty": [
+    {
+      "endChunk": "5.1 km",
+      "down": 3,
+      "chunk": 50,
+      "startChunk": "5.0 km",
+      "frac": 0.1701891,
+      "downers": [
+        [
+          "211",
+          "Dan Lukaszewicz"
+        ],
+        [
+          "214",
+          "Richard Elder"
+        ],
+        [
+          "207",
+          "Alex Skyride"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00333704,
+      "endAhead": "18.6 km",
+      "downs": [
+        "5.000 km",
+        "5.000 km",
+        "5.000 km"
+      ]
+    },
+    {
+      "endChunk": "9.5 km",
+      "down": 1,
+      "chunk": 94,
+      "startChunk": "9.4 km",
+      "frac": 0.243604,
+      "downers": [
+        [
+          "208",
+          "Soraya Rios"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00166852,
+      "endAhead": "23.0 km",
+      "downs": [
+        "9.489 km"
+      ]
+    },
+    {
+      "endChunk": "11.0 km",
+      "down": 1,
+      "chunk": 109,
+      "startChunk": "10.9 km",
+      "frac": 0.26028921,
+      "downers": [
+        [
+          "206",
+          "Michael Duffy"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00111235,
+      "endAhead": "24.5 km",
+      "downs": [
+        "10.981 km"
+      ]
+    },
+    {
+      "endChunk": "13.3 km",
+      "down": 1,
+      "chunk": 132,
+      "startChunk": "13.2 km",
+      "frac": 0.2730812,
+      "downers": [
+        [
+          "210",
+          "Pete Wall"
+        ]
+      ],
+      "downward": 0,
+      "rel": 0.00055617,
+      "endAhead": "26.8 km",
+      "downs": [
+        "13.241 km"
+      ]
+    },
+    {
+      "endChunk": "28.7 km",
+      "down": 1,
+      "chunk": 286,
+      "startChunk": "28.6 km",
+      "frac": 0.42880979,
+      "downers": [
+        [
+          "217",
+          "Richard Westmoreland"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00166852,
+      "endAhead": "42.2 km",
+      "downs": [
+        "28.678 km"
+      ]
+    },
+    {
+      "endChunk": "34.3 km",
+      "down": 1,
+      "chunk": 342,
+      "startChunk": "34.2 km",
+      "frac": 0.49110122,
+      "downers": [
+        [
+          "212",
+          "Greg Sessa"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00111235,
+      "endAhead": "47.8 km",
+      "downs": [
+        "34.204 km"
+      ]
+    },
+    {
+      "endChunk": "35.9 km",
+      "down": 1,
+      "chunk": 358,
+      "startChunk": "35.8 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "202",
+          "Nick Jones"
+        ]
+      ],
+      "downward": 0,
+      "rel": 0.00055617,
+      "endAhead": "49.4 km",
+      "downs": [
+        "35.806 km"
+      ]
+    }
+  ],
+  "lookahead": 136,
+  "minDistance": "0.000 km",
+  "landout": 9
+}
