@@ -10,7 +10,7 @@
     ],
     "sumOf": 2119
   },
-  "bestDistance": null,
+  "bestDistance": "110.547000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -20,10 +20,6 @@
       "frac": 0.12600283,
       "downers": [
         [
-          "213",
-          "Willie Van Caulart"
-        ],
-        [
           "209",
           "John Blank"
         ],
@@ -32,12 +28,16 @@
           "Michael Duffy"
         ],
         [
+          "202",
+          "Nick Jones"
+        ],
+        [
           "214",
           "Richard Elder"
         ],
         [
-          "202",
-          "Nick Jones"
+          "213",
+          "Willie Van Caulart"
         ]
       ],
       "downward": 6,
@@ -243,6 +243,6 @@
     }
   ],
   "lookahead": 221,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 15
 }

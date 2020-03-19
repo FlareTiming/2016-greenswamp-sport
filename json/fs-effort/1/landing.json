@@ -10,7 +10,7 @@
     ],
     "sumOf": 972
   },
-  "bestDistance": null,
+  "bestDistance": "34.242000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -20,20 +20,20 @@
       "frac": 0.16203704,
       "downers": [
         [
-          "210",
-          "Pete Wall"
-        ],
-        [
-          "213",
-          "Willie Van Caulart"
-        ],
-        [
           "206",
           "Michael Duffy"
         ],
         [
+          "210",
+          "Pete Wall"
+        ],
+        [
           "208",
           "Soraya Rios"
+        ],
+        [
+          "213",
+          "Willie Van Caulart"
         ]
       ],
       "downward": 4,
@@ -276,6 +276,6 @@
     }
   ],
   "lookahead": 64,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 16
 }

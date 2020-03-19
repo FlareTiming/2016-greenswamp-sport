@@ -90,10 +90,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": false,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": false
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [
       [
         [
@@ -187,6 +190,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
@@ -318,10 +322,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": false,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": false
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [
       [
         [
@@ -415,6 +422,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
@@ -510,10 +518,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": false,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": false
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [
       [
         [
@@ -595,6 +606,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
@@ -690,10 +702,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": false,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": false
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [
       [
         [
@@ -763,6 +778,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
@@ -858,10 +874,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": false,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": false
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [
       [
         [
@@ -931,6 +950,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }

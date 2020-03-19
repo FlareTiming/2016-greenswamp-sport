@@ -10,7 +10,7 @@
     ],
     "sumOf": 2019
   },
-  "bestDistance": null,
+  "bestDistance": "85.218000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -20,16 +20,16 @@
       "frac": 0.08543834,
       "downers": [
         [
+          "207",
+          "Alex Skyride"
+        ],
+        [
           "204",
           "Owen MB"
         ],
         [
           "217",
           "Richard Westmoreland"
-        ],
-        [
-          "207",
-          "Alex Skyride"
         ]
       ],
       "downward": 5,
@@ -290,6 +290,6 @@
     }
   ],
   "lookahead": 160,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 16
 }

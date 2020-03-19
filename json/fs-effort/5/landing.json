@@ -10,7 +10,7 @@
     ],
     "sumOf": 899
   },
-  "bestDistance": null,
+  "bestDistance": "40.924000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -20,16 +20,16 @@
       "frac": 0.1701891,
       "downers": [
         [
+          "207",
+          "Alex Skyride"
+        ],
+        [
           "211",
           "Dan Lukaszewicz"
         ],
         [
           "214",
           "Richard Elder"
-        ],
-        [
-          "207",
-          "Alex Skyride"
         ]
       ],
       "downward": 3,
@@ -157,6 +157,6 @@
     }
   ],
   "lookahead": 136,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 9
 }
