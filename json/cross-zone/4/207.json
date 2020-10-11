@@ -1,0 +1,127 @@
+{
+  "zonesCrossNominees": [
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2016-04-06T19:17:20Z",
+            "lat": 28.53186667,
+            "fix": 15,
+            "lng": -81.8429,
+            "alt": 130
+          },
+          {
+            "time": "2016-04-06T19:17:23Z",
+            "lat": 28.53216667,
+            "fix": 16,
+            "lng": -81.84263333,
+            "alt": 144
+          }
+        ]
+      },
+      {
+        "inZone": [
+          false,
+          true
+        ],
+        "crossingPair": [
+          {
+            "time": "2016-04-06T19:30:18Z",
+            "lat": 28.53688333,
+            "fix": 274,
+            "lng": -81.84618333,
+            "alt": 106
+          },
+          {
+            "time": "2016-04-06T19:30:21Z",
+            "lat": 28.53658333,
+            "fix": 275,
+            "lng": -81.84625,
+            "alt": 100
+          }
+        ]
+      },
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2016-04-06T19:30:43Z",
+            "lat": 28.53628333,
+            "fix": 282,
+            "lng": -81.84673333,
+            "alt": 80
+          },
+          {
+            "time": "2016-04-06T19:30:46Z",
+            "lat": 28.53665,
+            "fix": 283,
+            "lng": -81.84703333,
+            "alt": 79
+          }
+        ]
+      },
+      {
+        "inZone": [
+          false,
+          true
+        ],
+        "crossingPair": [
+          {
+            "time": "2016-04-06T19:30:49Z",
+            "lat": 28.53663333,
+            "fix": 284,
+            "lng": -81.84746667,
+            "alt": 79
+          },
+          {
+            "time": "2016-04-06T19:30:52Z",
+            "lat": 28.53641667,
+            "fix": 285,
+            "lng": -81.84766667,
+            "alt": 81
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    []
+  ],
+  "zonesCrossExcluded": [],
+  "startSelected": null,
+  "zonesCrossSelected": [
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2016-04-06T19:17:20Z",
+          "lat": 28.53186667,
+          "fix": 15,
+          "lng": -81.8429,
+          "alt": 130
+        },
+        {
+          "time": "2016-04-06T19:17:23Z",
+          "lat": 28.53216667,
+          "fix": 16,
+          "lng": -81.84263333,
+          "alt": 144
+        }
+      ]
+    },
+    null,
+    null,
+    null
+  ],
+  "startNominees": []
+}

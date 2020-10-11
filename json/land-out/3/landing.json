@@ -17,7 +17,7 @@
       "down": 1,
       "chunk": 0,
       "startChunk": "0.0 km",
-      "frac": 0.00219619,
+      "frac": 0.00219727,
       "downers": [
         [
           "213",
@@ -36,7 +36,7 @@
       "down": 4,
       "chunk": 50,
       "startChunk": "5.0 km",
-      "frac": 0.11859444,
+      "frac": 0.11865234,
       "downers": [
         [
           "209",
@@ -70,7 +70,7 @@
       "down": 1,
       "chunk": 90,
       "startChunk": "9.0 km",
-      "frac": 0.17715959,
+      "frac": 0.17724609,
       "downers": [
         [
           "208",
@@ -89,7 +89,7 @@
       "down": 1,
       "chunk": 109,
       "startChunk": "10.9 km",
-      "frac": 0.20034163,
+      "frac": 0.20043945,
       "downers": [
         [
           "217",
@@ -108,7 +108,7 @@
       "down": 1,
       "chunk": 157,
       "startChunk": "15.7 km",
-      "frac": 0.24719375,
+      "frac": 0.24731445,
       "downers": [
         [
           "211",
@@ -127,7 +127,7 @@
       "down": 1,
       "chunk": 158,
       "startChunk": "15.8 km",
-      "frac": 0.24792582,
+      "frac": 0.24804688,
       "downers": [
         [
           "212",
@@ -146,7 +146,7 @@
       "down": 1,
       "chunk": 225,
       "startChunk": "22.5 km",
-      "frac": 0.28062469,
+      "frac": 0.28051758,
       "downers": [
         [
           "207",
@@ -165,7 +165,7 @@
       "down": 1,
       "chunk": 240,
       "startChunk": "24.0 km",
-      "frac": 0.28721327,
+      "frac": 0.28710938,
       "downers": [
         [
           "204",
@@ -184,7 +184,7 @@
       "down": 1,
       "chunk": 449,
       "startChunk": "44.9 km",
-      "frac": 0.33821376,
+      "frac": 0.33813477,
       "downers": [
         [
           "210",
@@ -203,7 +203,7 @@
       "down": 1,
       "chunk": 881,
       "startChunk": "88.1 km",
-      "frac": 0.4477794,
+      "frac": 0.44775391,
       "downers": [
         [
           "215",
@@ -222,7 +222,7 @@
       "down": 1,
       "chunk": 883,
       "startChunk": "88.3 km",
-      "frac": 0.44875549,
+      "frac": 0.44873047,
       "downers": [
         [
           "216",

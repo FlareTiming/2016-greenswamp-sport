@@ -1,0 +1,105 @@
+{
+  "zonesCrossNominees": [
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2016-04-09T19:44:29Z",
+            "lat": 28.53581667,
+            "fix": 11,
+            "lng": -81.84716667,
+            "alt": 117
+          },
+          {
+            "time": "2016-04-09T19:44:39Z",
+            "lat": 28.53671667,
+            "fix": 12,
+            "lng": -81.8474,
+            "alt": 148
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2016-04-09T19:58:56Z",
+            "lat": 28.489,
+            "fix": 96,
+            "lng": -81.83956667,
+            "alt": 806
+          },
+          {
+            "time": "2016-04-09T19:59:06Z",
+            "lat": 28.48753333,
+            "fix": 97,
+            "lng": -81.8395,
+            "alt": 787
+          }
+        ]
+      }
+    ],
+    [],
+    []
+  ],
+  "zonesCrossExcluded": [],
+  "startSelected": null,
+  "zonesCrossSelected": [
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2016-04-09T19:44:29Z",
+          "lat": 28.53581667,
+          "fix": 11,
+          "lng": -81.84716667,
+          "alt": 117
+        },
+        {
+          "time": "2016-04-09T19:44:39Z",
+          "lat": 28.53671667,
+          "fix": 12,
+          "lng": -81.8474,
+          "alt": 148
+        }
+      ]
+    },
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2016-04-09T19:58:56Z",
+          "lat": 28.489,
+          "fix": 96,
+          "lng": -81.83956667,
+          "alt": 806
+        },
+        {
+          "time": "2016-04-09T19:59:06Z",
+          "lat": 28.48753333,
+          "fix": 97,
+          "lng": -81.8395,
+          "alt": 787
+        }
+      ]
+    },
+    null,
+    null
+  ],
+  "startNominees": []
+}

@@ -103,11 +103,15 @@
           "201",
           "Niki Longshore"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -115,11 +119,15 @@
           "209",
           "John Blank"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -127,11 +135,15 @@
           "210",
           "Pete Wall"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -139,11 +151,15 @@
           "216",
           "John Maloney"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -151,11 +167,15 @@
           "206",
           "Michael Duffy"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -163,11 +183,15 @@
           "217",
           "Richard Westmoreland"
         ],
-        [
-          {
-            "penalty-fraction": -0.29
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.29
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -175,11 +199,15 @@
           "208",
           "Soraya Rios"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ]
     ],
@@ -335,11 +363,15 @@
           "209",
           "John Blank"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -347,11 +379,15 @@
           "206",
           "Michael Duffy"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -359,11 +395,15 @@
           "201",
           "Niki Longshore"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -371,11 +411,15 @@
           "217",
           "Richard Westmoreland"
         ],
-        [
-          {
-            "penalty-fraction": -0.29
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.29
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -383,11 +427,15 @@
           "208",
           "Soraya Rios"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -395,11 +443,15 @@
           "216",
           "John Maloney"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -407,11 +459,15 @@
           "210",
           "Pete Wall"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ]
     ],
@@ -531,11 +587,15 @@
           "216",
           "John Maloney"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -543,11 +603,15 @@
           "208",
           "Soraya Rios"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -555,11 +619,15 @@
           "209",
           "John Blank"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -567,11 +635,15 @@
           "206",
           "Michael Duffy"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -579,11 +651,15 @@
           "210",
           "Pete Wall"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -591,11 +667,15 @@
           "201",
           "Niki Longshore"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ]
     ],
@@ -715,11 +795,15 @@
           "201",
           "Niki Longshore"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -727,11 +811,15 @@
           "210",
           "Pete Wall"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -739,11 +827,15 @@
           "216",
           "John Maloney"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -751,11 +843,15 @@
           "206",
           "Michael Duffy"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -763,11 +859,15 @@
           "208",
           "Soraya Rios"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ]
     ],
@@ -887,11 +987,15 @@
           "201",
           "Niki Longshore"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handcap"
       ],
       [
@@ -899,11 +1003,15 @@
           "216",
           "John Maloney"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -911,11 +1019,15 @@
           "210",
           "Pete Wall"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -923,11 +1035,15 @@
           "206",
           "Michael Duffy"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ],
       [
@@ -935,11 +1051,15 @@
           "208",
           "Soraya Rios"
         ],
-        [
-          {
-            "penalty-fraction": -0.06
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.06
+            }
+          ]
+        },
         "Handicap"
       ]
     ],
